@@ -2,6 +2,6 @@
 
 Preliminary analysis and pre-print of:
 
-Patterns of covid-19 pandemic dynamics following deployment of a broad national immunization program
+**Patterns of covid-19 pandemic dynamics following deployment of a broad national immunization program**
 
-Hagai Rossman, Smadar Shilo, Tomer Meir, Malka Gorfine, Uri Shalit, Eran Segal
+_Hagai Rossman, Smadar Shilo, Tomer Meir, Malka Gorfine, Uri Shalit, Eran Segal_
