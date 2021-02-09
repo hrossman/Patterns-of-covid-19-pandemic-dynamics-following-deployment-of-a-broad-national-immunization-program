@@ -1,6 +1,6 @@
 # Patterns-of-covid-19-pandemic-dynamics-following-deployment-of-a-broad-national-immunization-program
 
-Preliminary analysis and pre-print of:
+Preliminary analysis and pre-print is now available in MedRxiv:
 
 **[Patterns of covid-19 pandemic dynamics following deployment of a broad national immunization program](https://www.medrxiv.org/content/10.1101/2021.02.08.21251325v1)**
 
